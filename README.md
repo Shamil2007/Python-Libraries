@@ -49,7 +49,7 @@ Includes notebooks or `.py` files covering:
    ```bash
    git clone https://github.com/Shamil2007/Python-Tutorials.git
    cd Python‑Tutorials
-
+   ```
 
 * Open notebooks in each folder and follow the step-by-step explanations.
 * Execute code cells interactively, make modifications, and experiment.
